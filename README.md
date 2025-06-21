@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sambhav1401
-- 👀 I’m interested in Android App Developemnt
-- 🌱 I’m currently learning App development
-- 💞️ I’m looking to collaborate on making apps for android
+- 👀 I’m interested in Android App amd Web Developemnt
+- 🌱 I’m currently learning Web development
+- 💞️ I’m looking to collaborate on making apps for android and websites
 - 📫 How to reach me email-: saxenasambhav17@gmail.com
 
 <!---
